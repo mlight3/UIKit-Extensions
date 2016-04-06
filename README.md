@@ -1,9 +1,9 @@
 # UIKitExtensions
 
 [![CI Status](http://img.shields.io/travis/mlight3/UIKitExtensions.svg?style=flat)](https://travis-ci.org/mlight3/UIKitExtensions)
-[![Version](https://img.shields.io/cocoapods/v/UIKitExtensions.svg?style=flat)](http://cocoapods.org/pods/UIKitExtensions)
-[![License](https://img.shields.io/cocoapods/l/UIKitExtensions.svg?style=flat)](http://cocoapods.org/pods/UIKitExtensions)
-[![Platform](https://img.shields.io/cocoapods/p/UIKitExtensions.svg?style=flat)](http://cocoapods.org/pods/UIKitExtensions)
+[![Version](https://img.shields.io/cocoapods/v/UIKit-Extensions.svg?style=flat)](http://cocoapods.org/pods/UIKit-Extensions)
+[![License](https://img.shields.io/cocoapods/l/UIKit-Extensions.svg?style=flat)](http://cocoapods.org/pods/UIKit-Extensions)
+[![Platform](https://img.shields.io/cocoapods/p/UIKit-Extensions.svg?style=flat)](http://cocoapods.org/pods/UIKit-Extensions)
 
 ## Usage
 

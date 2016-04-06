@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "UIKitExtensions"
+  s.name             = "UIKit-Extensions"
   s.version          = "0.1.0"
   s.summary          = "UIKit-Extensions with Swift."
 
